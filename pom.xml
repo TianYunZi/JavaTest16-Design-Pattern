@@ -12,6 +12,11 @@
         <module>chapter01-factory-pattern</module>
         <module>chapter02-abstract-factory-pattern</module>
         <module>chapter03-singleton-instance</module>
+        <module>chapter03-singleton-instance-lazy -thread-safe</module>
+        <module>chapter03-singleton-instance-hungry</module>
+        <module>chapter03-singleton-instance-double-checked-locking</module>
+        <module>chapter03-singleton-instance-static-inner-class</module>
+        <module>chapter03-singleton-instance-enum</module>
     </modules>
 
     <!--<build>-->

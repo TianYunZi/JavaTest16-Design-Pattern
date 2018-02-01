@@ -9,12 +9,22 @@
         <module name="chapter01-factory-pattern" />
         <module name="chapter02-abstract-factory-pattern" />
         <module name="chapter03-singleton-instance" />
+        <module name="chapter03-singleton-instance-double-checked-locking" />
+        <module name="chapter03-singleton-instance-enum" />
+        <module name="chapter03-singleton-instance-hungry" />
+        <module name="chapter03-singleton-instance-lazy -thread-safe" />
+        <module name="chapter03-singleton-instance-static-inner-class" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="chapter01-factory-pattern" target="1.9" />
       <module name="chapter02-abstract-factory-pattern" target="1.9" />
       <module name="chapter03-singleton-instance" target="1.5" />
+      <module name="chapter03-singleton-instance-double-checked-locking" target="1.5" />
+      <module name="chapter03-singleton-instance-enum" target="1.5" />
+      <module name="chapter03-singleton-instance-hungry" target="1.5" />
+      <module name="chapter03-singleton-instance-lazy -thread-safe" target="1.5" />
+      <module name="chapter03-singleton-instance-static-inner-class" target="1.5" />
       <module name="JavaTest16-Design-Pattern" target="1.5" />
     </bytecodeTargetLevel>
   </component>

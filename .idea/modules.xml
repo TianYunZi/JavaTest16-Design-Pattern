@@ -6,6 +6,11 @@
       <module fileurl="file://$PROJECT_DIR$/chapter01-factory-pattern/chapter01-factory-pattern.iml" filepath="$PROJECT_DIR$/chapter01-factory-pattern/chapter01-factory-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter02-abstract-factory-pattern/chapter02-abstract-factory-pattern.iml" filepath="$PROJECT_DIR$/chapter02-abstract-factory-pattern/chapter02-abstract-factory-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter03-singleton-instance/chapter03-singleton-instance.iml" filepath="$PROJECT_DIR$/chapter03-singleton-instance/chapter03-singleton-instance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter03-singleton-instance-double-checked-locking/chapter03-singleton-instance-double-checked-locking.iml" filepath="$PROJECT_DIR$/chapter03-singleton-instance-double-checked-locking/chapter03-singleton-instance-double-checked-locking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter03-singleton-instance-enum/chapter03-singleton-instance-enum.iml" filepath="$PROJECT_DIR$/chapter03-singleton-instance-enum/chapter03-singleton-instance-enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter03-singleton-instance-hungry/chapter03-singleton-instance-hungry.iml" filepath="$PROJECT_DIR$/chapter03-singleton-instance-hungry/chapter03-singleton-instance-hungry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter03-singleton-instance-lazy -thread-safe/chapter03-singleton-instance-lazy -thread-safe.iml" filepath="$PROJECT_DIR$/chapter03-singleton-instance-lazy -thread-safe/chapter03-singleton-instance-lazy -thread-safe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter03-singleton-instance-static-inner-class/chapter03-singleton-instance-static-inner-class.iml" filepath="$PROJECT_DIR$/chapter03-singleton-instance-static-inner-class/chapter03-singleton-instance-static-inner-class.iml" />
     </modules>
   </component>
 </project>

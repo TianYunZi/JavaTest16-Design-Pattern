@@ -2,7 +2,7 @@ package chapter.singleton.instance;
 
 public class SingleObject {
 
-    private static final SingleObject instance = new SingleObject();
+    private static SingleObject instance;
 
     private SingleObject() {
 
