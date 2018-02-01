@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaTest16-Design-Pattern.iml" filepath="$PROJECT_DIR$/JavaTest16-Design-Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter01-factory-pattern/chapter01-factory-pattern.iml" filepath="$PROJECT_DIR$/chapter01-factory-pattern/chapter01-factory-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter02-abstract-factory-pattern/chapter02-abstract-factory-pattern.iml" filepath="$PROJECT_DIR$/chapter02-abstract-factory-pattern/chapter02-abstract-factory-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter03-singleton-instance/chapter03-singleton-instance.iml" filepath="$PROJECT_DIR$/chapter03-singleton-instance/chapter03-singleton-instance.iml" />
     </modules>
   </component>
 </project>

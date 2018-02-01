@@ -1,0 +1,1 @@
+参考教程: http://www.runoob.com/design-pattern/singleton-pattern.html

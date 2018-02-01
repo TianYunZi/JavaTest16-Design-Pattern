@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="chapter01-factory-pattern" />
         <module name="chapter02-abstract-factory-pattern" />
+        <module name="chapter03-singleton-instance" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="chapter01-factory-pattern" target="1.9" />
       <module name="chapter02-abstract-factory-pattern" target="1.9" />
+      <module name="chapter03-singleton-instance" target="1.5" />
       <module name="JavaTest16-Design-Pattern" target="1.5" />
     </bytecodeTargetLevel>
   </component>

@@ -11,6 +11,7 @@
     <modules>
         <module>chapter01-factory-pattern</module>
         <module>chapter02-abstract-factory-pattern</module>
+        <module>chapter03-singleton-instance</module>
     </modules>
 
     <!--<build>-->
