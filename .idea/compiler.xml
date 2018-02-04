@@ -14,18 +14,64 @@
         <module name="chapter03-singleton-instance-hungry" />
         <module name="chapter03-singleton-instance-lazy -thread-safe" />
         <module name="chapter03-singleton-instance-static-inner-class" />
+        <module name="chapter04-bulider-pattnern" />
+        <module name="chapter05-prototype-pattern" />
+        <module name="chapter06-adapter-pattern" />
+        <module name="chapter07-bridge-pattern" />
+        <module name="chapter08-filter-pattern" />
+        <module name="chapter09-composite-pattern" />
+        <module name="chapter10-decorator-pattern" />
+        <module name="chapter11-facade-pattern" />
+        <module name="chapter12-flyweight-pattern" />
+        <module name="chapter13-proxy-pattern" />
+        <module name="chapter14-chain-of-responsibility-pattern" />
+        <module name="chapter15-command-pattern" />
+        <module name="chapter16-Interpreter-pattern" />
+        <module name="chapter17-iterator-pattern" />
+        <module name="chapter18-mediator-pattern" />
+        <module name="chapter19-memento-pattern" />
+        <module name="chapter20-observe-pattern" />
+        <module name="chapter21-state-pattern" />
+        <module name="chapter22-null-object-pattern" />
+        <module name="chapter23-strategy-pattern" />
+        <module name="chapter24-template-pattern" />
+        <module name="chapter25-visitor-pattern" />
+        <module name="pattern24-template-pattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="chapter01-factory-pattern" target="1.9" />
       <module name="chapter02-abstract-factory-pattern" target="1.9" />
-      <module name="chapter03-singleton-instance" target="1.5" />
-      <module name="chapter03-singleton-instance-double-checked-locking" target="1.5" />
-      <module name="chapter03-singleton-instance-enum" target="1.5" />
-      <module name="chapter03-singleton-instance-hungry" target="1.5" />
-      <module name="chapter03-singleton-instance-lazy -thread-safe" target="1.5" />
-      <module name="chapter03-singleton-instance-static-inner-class" target="1.5" />
+      <module name="chapter03-singleton-instance" target="1.9" />
+      <module name="chapter03-singleton-instance-double-checked-locking" target="1.9" />
+      <module name="chapter03-singleton-instance-enum" target="1.9" />
+      <module name="chapter03-singleton-instance-hungry" target="1.9" />
+      <module name="chapter03-singleton-instance-lazy -thread-safe" target="1.9" />
+      <module name="chapter03-singleton-instance-static-inner-class" target="1.9" />
+      <module name="chapter04-bulider-pattnern" target="1.9" />
+      <module name="chapter05-prototype-pattern" target="1.9" />
+      <module name="chapter06-adapter-pattern" target="1.9" />
+      <module name="chapter07-bridge-pattern" target="1.9" />
+      <module name="chapter08-filter-pattern" target="1.9" />
+      <module name="chapter09-composite-pattern" target="1.9" />
+      <module name="chapter10-decorator-pattern" target="1.9" />
+      <module name="chapter11-facade-pattern" target="1.9" />
+      <module name="chapter12-flyweight-pattern" target="1.9" />
+      <module name="chapter13-proxy-pattern" target="1.9" />
+      <module name="chapter14-chain-of-responsibility-pattern" target="1.9" />
+      <module name="chapter15-command-pattern" target="1.9" />
+      <module name="chapter16-Interpreter-pattern" target="1.9" />
+      <module name="chapter17-iterator-pattern" target="1.9" />
+      <module name="chapter18-mediator-pattern" target="1.9" />
+      <module name="chapter19-memento-pattern" target="1.9" />
+      <module name="chapter20-observe-pattern" target="1.9" />
+      <module name="chapter21-state-pattern" target="1.9" />
+      <module name="chapter22-null-object-pattern" target="1.9" />
+      <module name="chapter23-strategy-pattern" target="1.9" />
+      <module name="chapter24-template-pattern" target="1.9" />
+      <module name="chapter25-visitor-pattern" target="1.9" />
       <module name="JavaTest16-Design-Pattern" target="1.5" />
+      <module name="pattern24-template-pattern" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

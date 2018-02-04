@@ -17,6 +17,28 @@
         <module>chapter03-singleton-instance-double-checked-locking</module>
         <module>chapter03-singleton-instance-static-inner-class</module>
         <module>chapter03-singleton-instance-enum</module>
+        <module>chapter04-bulider-pattnern</module>
+        <module>chapter05-prototype-pattern</module>
+        <module>chapter06-adapter-pattern</module>
+        <module>chapter07-bridge-pattern</module>
+        <module>chapter08-filter-pattern</module>
+        <module>chapter09-composite-pattern</module>
+        <module>chapter10-decorator-pattern</module>
+        <module>chapter11-facade-pattern</module>
+        <module>chapter12-flyweight-pattern</module>
+        <module>chapter13-proxy-pattern</module>
+        <module>chapter14-chain-of-responsibility-pattern</module>
+        <module>chapter15-command-pattern</module>
+        <module>chapter16-Interpreter-pattern</module>
+        <module>chapter17-iterator-pattern</module>
+        <module>chapter18-mediator-pattern</module>
+        <module>chapter19-memento-pattern</module>
+        <module>chapter20-observe-pattern</module>
+        <module>chapter21-state-pattern</module>
+        <module>chapter22-null-object-pattern</module>
+        <module>chapter23-strategy-pattern</module>
+        <module>chapter24-template-pattern</module>
+        <module>chapter25-visitor-pattern</module>
     </modules>
 
     <!--<build>-->

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaTest16-Design-Pattern.iml" filepath="$PROJECT_DIR$/.idea/JavaTest16-Design-Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaTest16-Design-Pattern.iml" filepath="$PROJECT_DIR$/JavaTest16-Design-Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter01-factory-pattern/chapter01-factory-pattern.iml" filepath="$PROJECT_DIR$/chapter01-factory-pattern/chapter01-factory-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter02-abstract-factory-pattern/chapter02-abstract-factory-pattern.iml" filepath="$PROJECT_DIR$/chapter02-abstract-factory-pattern/chapter02-abstract-factory-pattern.iml" />
@@ -11,6 +12,28 @@
       <module fileurl="file://$PROJECT_DIR$/chapter03-singleton-instance-hungry/chapter03-singleton-instance-hungry.iml" filepath="$PROJECT_DIR$/chapter03-singleton-instance-hungry/chapter03-singleton-instance-hungry.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter03-singleton-instance-lazy -thread-safe/chapter03-singleton-instance-lazy -thread-safe.iml" filepath="$PROJECT_DIR$/chapter03-singleton-instance-lazy -thread-safe/chapter03-singleton-instance-lazy -thread-safe.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter03-singleton-instance-static-inner-class/chapter03-singleton-instance-static-inner-class.iml" filepath="$PROJECT_DIR$/chapter03-singleton-instance-static-inner-class/chapter03-singleton-instance-static-inner-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter04-bulider-pattnern/chapter04-bulider-pattnern.iml" filepath="$PROJECT_DIR$/chapter04-bulider-pattnern/chapter04-bulider-pattnern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter05-prototype-pattern/chapter05-prototype-pattern.iml" filepath="$PROJECT_DIR$/chapter05-prototype-pattern/chapter05-prototype-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter06-adapter-pattern/chapter06-adapter-pattern.iml" filepath="$PROJECT_DIR$/chapter06-adapter-pattern/chapter06-adapter-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter07-bridge-pattern/chapter07-bridge-pattern.iml" filepath="$PROJECT_DIR$/chapter07-bridge-pattern/chapter07-bridge-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter08-filter-pattern/chapter08-filter-pattern.iml" filepath="$PROJECT_DIR$/chapter08-filter-pattern/chapter08-filter-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter09-composite-pattern/chapter09-composite-pattern.iml" filepath="$PROJECT_DIR$/chapter09-composite-pattern/chapter09-composite-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10-decorator-pattern/chapter10-decorator-pattern.iml" filepath="$PROJECT_DIR$/chapter10-decorator-pattern/chapter10-decorator-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11-facade-pattern/chapter11-facade-pattern.iml" filepath="$PROJECT_DIR$/chapter11-facade-pattern/chapter11-facade-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter12-flyweight-pattern/chapter12-flyweight-pattern.iml" filepath="$PROJECT_DIR$/chapter12-flyweight-pattern/chapter12-flyweight-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter13-proxy-pattern/chapter13-proxy-pattern.iml" filepath="$PROJECT_DIR$/chapter13-proxy-pattern/chapter13-proxy-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter14-chain-of-responsibility-pattern/chapter14-chain-of-responsibility-pattern.iml" filepath="$PROJECT_DIR$/chapter14-chain-of-responsibility-pattern/chapter14-chain-of-responsibility-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15-command-pattern/chapter15-command-pattern.iml" filepath="$PROJECT_DIR$/chapter15-command-pattern/chapter15-command-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter16-Interpreter-pattern/chapter16-Interpreter-pattern.iml" filepath="$PROJECT_DIR$/chapter16-Interpreter-pattern/chapter16-Interpreter-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter17-iterator-pattern/chapter17-iterator-pattern.iml" filepath="$PROJECT_DIR$/chapter17-iterator-pattern/chapter17-iterator-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter18-mediator-pattern/chapter18-mediator-pattern.iml" filepath="$PROJECT_DIR$/chapter18-mediator-pattern/chapter18-mediator-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter19-memento-pattern/chapter19-memento-pattern.iml" filepath="$PROJECT_DIR$/chapter19-memento-pattern/chapter19-memento-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter20-observe-pattern/chapter20-observe-pattern.iml" filepath="$PROJECT_DIR$/chapter20-observe-pattern/chapter20-observe-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter21-state-pattern/chapter21-state-pattern.iml" filepath="$PROJECT_DIR$/chapter21-state-pattern/chapter21-state-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter22-null-object-pattern/chapter22-null-object-pattern.iml" filepath="$PROJECT_DIR$/chapter22-null-object-pattern/chapter22-null-object-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter23-strategy-pattern/chapter23-strategy-pattern.iml" filepath="$PROJECT_DIR$/chapter23-strategy-pattern/chapter23-strategy-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter24-template-pattern/chapter24-template-pattern.iml" filepath="$PROJECT_DIR$/chapter24-template-pattern/chapter24-template-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter25-visitor-pattern/chapter25-visitor-pattern.iml" filepath="$PROJECT_DIR$/chapter25-visitor-pattern/chapter25-visitor-pattern.iml" />
     </modules>
   </component>
 </project>
